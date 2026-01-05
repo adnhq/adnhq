@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey! I’m Adnan 👋
 
-<!--
-**adnhq/adnhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Smart Contract Engineer with a strong interest in security research and the EVM.
 
-Here are some ideas to get you started:
+### Currently
+- **Smart Contract Engineer @ [Oak Network](https://www.oaknetwork.org/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previously
+- [Node Guardians](https://nodeguardians.io/)
+- [Quintes Protocol](https://www.quintes.org/)
+- [Viveel](https://www.crunchbase.com/organization/viveel)
+
+Additionally, I have worked with **30+ projects** as an independent smart contract developer
+
+### Co-Founded & Developed
+- [Duos Eats](https://www.duoseats.com/)
