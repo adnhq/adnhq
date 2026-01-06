@@ -10,7 +10,8 @@ A Smart Contract Engineer with a strong interest in security research and the EV
 - [Quintes Protocol](https://www.quintes.org/)
 - [Viveel](https://www.crunchbase.com/organization/viveel)
 
-Additionally, worked with **30+ Web3 projects** as an independent smart contract developer.
+#### Freelance Work
+Collaborated with **30+ Web3 projects** as an independent smart contract developer.
 
 ### Co-Founded & Developed
 - [Duos Eats](https://www.duoseats.com/)
